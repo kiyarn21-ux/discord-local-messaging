@@ -1,0 +1,12 @@
+{
+  "name": "Local Message Spoofer",
+  "description": "Send local fake messages with custom embeds.",
+  "authors": [
+    {
+      "name": "CustomDev",
+      "id": "123456789"
+    }
+  ],
+  "main": "index.js",
+  "hash": "av8445"
+}
