@@ -1,0 +1,1 @@
+{"name":"FakeDMMessage","description":"Inject a fake message in the current DM that appears to come from a specific user ID.","authors":[{"name":"simply","id":"973676716448948274"}],"main":"index.js","vendetta":{"icon":"ic_message"},"hash":"804d93277817e812ef851d4d95bc2b6d25d32cffe515299f57f89b16a083d0dc"}
